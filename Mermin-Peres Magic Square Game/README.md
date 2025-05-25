@@ -1,8 +1,8 @@
 # **Mermin–Peres Magic Square Game (MPMS Game)**
 
-The **Mermin–Peres Magic Square (MPMS) Game** is a puzzle that comes from quantum physics. It's played by two players—**Alice** and **Bob**—who must work together without interacting with each other during the game.
+The Mermin–Peres Magic Square (MPMS) Game is a logic-based puzzle inspired by ideas in quantum physics. It's played by two players—**Alice** and **Bob**—who must work together without interacting with each other during the game.
 
-The game is based on a $3×3$ grid, where each cell contains either $0$ or $1$. The rules are:
+The game is based on a $3×3$ grid, where each cell may contain either $0$ or $1$. The rules are:
 
 - Alice gets a random **row number** (from $0$ to $2$) and must give the three values in that row.
 - Bob gets a random **column number** (from $0$ to $2$) and must give the three values in that column.
