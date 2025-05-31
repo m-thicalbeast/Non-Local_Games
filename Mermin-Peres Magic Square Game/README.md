@@ -20,5 +20,3 @@ At first, the rules may seem easy to follow—but it turns out that it’s **imp
 In this project, we explore how both **classical** and **quantum** strategies can be used to play the MPMS game. While classical strategies can win **at most 8 out of 9 times** (around **88.9% success rate**), the quantum strategy implemented by us wins **every single time**—achieving a **perfect 100% accuracy**.
 
 This remarkable advantage is made possible by quantum features like **entanglement** and **contextuality**, which give Alice and Bob a stronger-than-classical correlation without any communication. 
-
-Detailed explanations and implementations of both strategies will follow in the next sections.
